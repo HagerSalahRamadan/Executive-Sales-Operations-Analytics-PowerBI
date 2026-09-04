@@ -93,5 +93,6 @@ The project consists of **3 main interactive report pages** supported by **2 uti
 ├── Demo/                       # Video Walkthrough / Animation files
 └── README.md                   # Project documentation
 
-## Contact
+---
+### Contact
 For any questions Contact via email **hagersalah.r39@gmail.com**.
