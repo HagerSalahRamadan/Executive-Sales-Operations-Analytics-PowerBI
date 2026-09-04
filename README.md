@@ -7,7 +7,7 @@ An end-to-end, highly interactive Power BI dashboard designed to bridge the gap 
 
 ## 🎬 Project Demo
 ### 🎥 Watch the Project Walkthrough
-[![Watch on LinkedIn](https://lnkd.in/p/ebJM8U9K)](حطي_رابط_بوست_لينكد_إن_هنا)
+[![Watch on LinkedIn](https://lnkd.in/p/ebJM8U9K)]
 
 *Click the button above to watch the full interactive walkthrough video on LinkedIn.*
 ---
