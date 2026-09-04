@@ -83,16 +83,5 @@ The project consists of **3 main interactive report pages** supported by **2 uti
   * Custom Themes, Soft Containers & Shadows
 
 ---
-
-## 📁 Repository Contents
-
-```text
-├── Data/                       # Raw sales, customer, and logistics dataset
-├── PowerBI/                    # .pbix report file
-├── Screenshots/                # High-res exports of report pages
-├── Demo/                       # Video Walkthrough / Animation files
-└── README.md                   # Project documentation
-
----
 ### Contact
 For any questions Contact via email **hagersalah.r39@gmail.com**.
