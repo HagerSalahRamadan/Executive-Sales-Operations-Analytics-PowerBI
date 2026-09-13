@@ -19,37 +19,37 @@ Below are screenshots showcasing the main report pages, utility views, and inter
 
 ### 🏠 0. Home / Landing Page
 *Executive entry portal with project introduction and direct page navigation.*
-![Home Page](path/to/0_home_page.png)
+![Home Page](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/Home%20Page.png)
 
 ---
 
 ### 📈 1. Executive Overview
 *High-level business KPIs, trend analytics, quarterly revenue, and Q&A interaction.*
-![Executive Overview Page](path/to/1_executive_overview.png)
+![Executive Overview Page](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/1-Executive%20Overview.png)
 
 #### 🎛️ Pop-up Filter Panel  
 *Collapsible slicer panel using Bookmarks/Selection Pane, alongside native Q&A AI capabilities.*
-![Pop-up Filter Panel & QA Chat](path/to/filter_panel_qa_chat.png)
+![Pop-up Filter Panel & QA Chat](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/Filter%20Panel.png)
 
 #### 🎛️ Q&A Chat
 *alongside native Q&A AI capabilities.*
-![Pop-up Filter Panel & QA Chat](path/to/filter_panel_qa_chat.png)
+![Pop-up Filter Panel & QA Chat](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/Q%26A%20Chat.png)
 
 ---
 
 ### 🔎 Drill-Through Utility Page (`Drillthrough_CategoryDetails`)
 *Deep-dive contextual page triggered via right-click for granular category performance.*
-![Category Details Drillthrough Page](path/to/drillthrough_category_details.png)
+![Category Details Drillthrough Page](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/Drillthrough_CategoryDetails.png)
 
 ---
 
 ### 👥 2. Customers & Products
 *Detailed customer demographics, purchasing behavior, product category performance, and discounts.*
-![Customers and Products Page](path/to/2_customers_and_products.png)
+![Customers and Products Page](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/2-Customers%20%26%20Products.png)
 
 #### 💬 Customer Segment Report Page Tooltip (`Tooltip_CustomerSegmentDetails`)
 *On-hover dynamic visual tooltip revealing sub-segment details and top customer performance.*
-![Customer Segment Tooltip](path/to/tooltip_customer_segment.png)
+![Customer Segment Tooltip](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/3-Logistics%20%26%20Operations.png)
 
 ---
 
