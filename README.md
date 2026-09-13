@@ -10,6 +10,53 @@ An end-to-end, highly interactive Power BI dashboard designed to bridge the gap 
 [Watch Video on LinkedIn](https://lnkd.in/p/ebJM8U9K)
 
 *Click the button above to watch the full interactive walkthrough video on LinkedIn.*
+
+---
+
+## 📸 Dashboard Preview & Screenshots
+
+Below are screenshots showcasing the main report pages, utility views, and interactive features:
+
+### 🏠 0. Home / Landing Page
+*Executive entry portal with project introduction and direct page navigation.*
+![Home Page](path/to/0_home_page.png)
+
+---
+
+### 📈 1. Executive Overview
+*High-level business KPIs, trend analytics, quarterly revenue, and Q&A interaction.*
+![Executive Overview Page](path/to/1_executive_overview.png)
+
+#### 🎛️ Pop-up Filter Panel  
+*Collapsible slicer panel using Bookmarks/Selection Pane, alongside native Q&A AI capabilities.*
+![Pop-up Filter Panel & QA Chat](path/to/filter_panel_qa_chat.png)
+
+#### 🎛️ Q&A Chat
+*alongside native Q&A AI capabilities.*
+![Pop-up Filter Panel & QA Chat](path/to/filter_panel_qa_chat.png)
+
+---
+
+### 🔎 Drill-Through Utility Page (`Drillthrough_CategoryDetails`)
+*Deep-dive contextual page triggered via right-click for granular category performance.*
+![Category Details Drillthrough Page](path/to/drillthrough_category_details.png)
+
+---
+
+### 👥 2. Customers & Products
+*Detailed customer demographics, purchasing behavior, product category performance, and discounts.*
+![Customers and Products Page](path/to/2_customers_and_products.png)
+
+#### 💬 Customer Segment Report Page Tooltip (`Tooltip_CustomerSegmentDetails`)
+*On-hover dynamic visual tooltip revealing sub-segment details and top customer performance.*
+![Customer Segment Tooltip](path/to/tooltip_customer_segment.png)
+
+---
+
+### 🚚 3. Logistics & Operations
+*Delivery efficiency, late processing rates, warehouse performance, and supplier dynamics.*
+![Logistics and Operations Page](path/to/3_logistics_and_operations.png)
+
 ---
 
 ## 🎯 Project Overview & Objective
@@ -62,7 +109,7 @@ The project consists of **3 main interactive report pages** supported by **2 uti
   * Delivery Status (Delivered vs. In Transit) and Warehouse Late Processing Rates.
 
 ### 🔎 4. Drill-Through Utility Page (`Category Overview`)
-* A dedicated detail page accessible by right-clicking any category across the dashboard.
+* A dedicated detail page accessible by right-clicking any category across the dashboard (`Drillthrough_CategoryDetails`).
 * Contains granular monthly profit trends, sales channel breakdown, brand performance, and an itemized product table.
 * Features a built-in **Back Button** for fluid user experience.
 
@@ -83,5 +130,6 @@ The project consists of **3 main interactive report pages** supported by **2 uti
   * Custom Themes, Soft Containers & Shadows
 
 ---
-### Contact
-For any questions Contact via email **hagersalah.r39@gmail.com**.
+
+## 📧 Contact
+For any questions or feedback, feel free to reach out via email: **hagersalah.r39@gmail.com**.
