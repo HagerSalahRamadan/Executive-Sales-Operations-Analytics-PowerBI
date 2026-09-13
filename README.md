@@ -49,13 +49,13 @@ Below are screenshots showcasing the main report pages, utility views, and inter
 
 #### 💬 Customer Segment Report Page Tooltip (`Tooltip_CustomerSegmentDetails`)
 *On-hover dynamic visual tooltip revealing sub-segment details and top customer performance.*
-![Customer Segment Tooltip](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/3-Logistics%20%26%20Operations.png)
+![Customer Segment Tooltip](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/Tooltip_CustomerSegmentDetails.png)
 
 ---
 
 ### 🚚 3. Logistics & Operations
 *Delivery efficiency, late processing rates, warehouse performance, and supplier dynamics.*
-![Logistics and Operations Page](path/to/3_logistics_and_operations.png)
+![Logistics and Operations Page](https://github.com/HagerSalahRamadan/Executive-Sales-Operations-Analytics-PowerBI/blob/main/3-Logistics%20%26%20Operations.png)
 
 ---
 
